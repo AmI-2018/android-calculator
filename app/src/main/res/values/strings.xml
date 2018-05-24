@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="text_welcome">Welcome</string>
+    <string name="text_number1">Insert number 1</string>
+    <string name="text_number2">Insert number 2</string>
+    <string name="text_result_label">Result</string>
+    <string name="text_bio">Hi! I am Alberto, and I created this wonderful App</string>
+    <string name="text_info">Info</string>
+</resources>

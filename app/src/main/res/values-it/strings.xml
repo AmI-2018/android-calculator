@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Semplice Calcolatrice</string>
+    <string name="text_welcome">Benvenuto</string>
+    <string name="text_number1">Inserisci numero 1</string>
+    <string name="text_number2">Inserisci numero 1</string>
+    <string name="text_result_label">Risultato</string>
+    <string name="text_bio">Ciao! sono Alberto, e sono il creatore di questa fantastica calcolatrice!</string>
+    <string name="text_info">Informazioni</string>
+</resources>
